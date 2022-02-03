@@ -1,4 +1,5 @@
 # CRM - Web
+_Click [CRM - Mobile] to see the mobile version._
 # _About_
 > The application is created for a specific customer as a freelance project by me. Powered by [React.js] and [Fusetheme] which is based on [MaterialUI] for client side, [Node.js] and [Firebase] for backend. I am planning to add [MongoDB] support in the future.
 
@@ -18,49 +19,49 @@
 - Create excel files listing customers, proposals, sales
 
 ### _Login_
-<img src="images/login.png" width="400" heigh="198">
+<img src="images/login.png" width="400" height="198">
 
 ### _User_
-<img src="images/users.png" width="400" heigh="198">
-<img src="images/createUser.png" width="400" heigh="198">
-<img src="images/setUserRoles.png" width="400" heigh="198">
+<img src="images/users.png" width="400" height="198">
+<img src="images/createUser.png" width="400" height="198">
+<img src="images/setUserRoles.png" width="400" height="198">
 
 ### _Product Details_
-<img src="images/productDetails.png" width="400" heigh="198">
+<img src="images/productDetails.png" width="400" height="198">
 
 ### _Customer Details_
-<img src="images/customerDetails.png" width="400" heigh="198">
+<img src="images/customerDetails.png" width="400" height="198">
 
 ### _Product Proposal_
-<img src="images/createProductProposal.png" width="400" heigh="198">
-<img src="images/productProposalDetails.png" width="400" heigh="198">
+<img src="images/createProductProposal.png" width="400" height="198">
+<img src="images/productProposalDetails.png" width="400" height="198">
 
 ### _Meeting_
-<img src="images/createMeeting.png" width="400" heigh="198">
-<img src="images/meetingDetails.png" width="400" heigh="198">
+<img src="images/createMeeting.png" width="400" height="198">
+<img src="images/meetingDetails.png" width="400" height="198">
 
 ### _Product Sale_
-<img src="images/productSaleDetails1.png" width="400" heigh="198">
+<img src="images/productSaleDetails1.png" width="400" height="198">
 
 > After installation report for given sale
 
-<img src="images/productSaleDetails2.png" width="400" heigh="198">
+<img src="images/productSaleDetails2.png" width="400" height="198">
 
 ### _Create Installation Report_ 
-<img src="images/createInstallationReport1.png" width="400" heigh="198">
-<img src="images/createInstallationReport2.png" width="400" heigh="198">
+<img src="images/createInstallationReport1.png" width="400" height="198">
+<img src="images/createInstallationReport2.png" width="400" height="198">
 
 ### _Actions_
 Example product proposal, installation report and excel file can be found under example-files folder.
 
-<img src="images/actionMenu.png" width="400" heigh="198">
-<img src="images/sentEmail.png" width="400" heigh="198">
+<img src="images/actionMenu.png" width="400" height="198">
+<img src="images/sentEmail.png" width="400" height="198">
 
 #### _Filter action_
-<img src="images/filterCustomers.png" width="400" heigh="198">
+<img src="images/filterCustomers.png" width="400" height="198">
 
 #### _Excel action_
-<img src="images/toExcel.png" width="400" heigh="198">
+<img src="images/toExcel.png" width="400" height="198">
 
 
    [React.js]: <https://reactjs.org>
@@ -70,3 +71,4 @@ Example product proposal, installation report and excel file can be found under 
    [Fusetheme]: <http://react-material.fusetheme.com>
    [MaterialUI]: <https://mui.com>
    [Firebase]: <https://firebase.google.com>
+   [CRM - Mobile]: <https://github.com/HakanKOCAK/CRM-Mobile>
