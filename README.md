@@ -15,6 +15,7 @@
 - Create service and installation reports.
 - Keep track of warranty information of sold products.
 - Send proposals, service and installation report to customer as email.
+- Create excel files listing customers, proposals, sales
 
 ### _Login_
 <img src="images/login.png" width="400" heigh="198">
@@ -50,10 +51,16 @@
 <img src="images/createInstallationReport2.png" width="400" heigh="198">
 
 ### _Actions_
-Example product proposal and installation report file can be found under example-files folder.
+Example product proposal, installation report and excel file can be found under example-files folder.
 
 <img src="images/actionMenu.png" width="400" heigh="198">
 <img src="images/sentEmail.png" width="400" heigh="198">
+
+#### _Filter action_
+<img src="images/filterCustomers.png" width="400" heigh="198">
+
+#### _Excel action_
+<img src="images/toExcel.png" width="400" heigh="198">
 
 
    [React.js]: <https://reactjs.org>
